@@ -1,0 +1,37 @@
+#Source: https://github.com/azsk/AzTS-docs/tree/main/Control%20coverage
+Feature Name;Resource Type
+APIManagement;Microsoft.ApiManagement/service
+ApplicationGateway;Microsoft.Network/applicationGateways
+AppService;Microsoft.Web/sites
+AutomationAccount;Microsoft.Automation/automationAccounts
+Bastion;Microsoft.Network/bastionHosts
+CDN;Microsoft.Cdn/profiles
+CloudService;Microsoft.ClassicCompute/domainNames
+ContainerRegistry;Microsoft.ContainerRegistry/registries
+CosmosDB;Microsoft.DocumentDB/databaseAccounts
+DataLakeAnalytics;Microsoft.DataLakeAnalytics/accounts
+DataLakeStore;Microsoft.DataLakeStore/accounts
+DBForMySql;Microsoft.DBforMySQL/servers
+DBForMySqlFlexibleServer;Microsoft.DBforMySQL/flexibleServers
+DBForPostgreSQL;Microsoft.DBforPostgreSQL/servers
+EventHub;Microsoft.EventHub/namespaces
+FrontDoor;Microsoft.Network/frontDoor
+HDInsight;Microsoft.HDInsight/clusters
+HybridCompute;Microsoft.HybridCompute/machines
+KeyVault;Microsoft.KeyVault/vaults
+KubernetesService;Microsoft.ContainerService/managedClusters
+LoadBalancer;Microsoft.Network/loadBalancers
+LogicApps;Microsoft.Logic/workflows
+NotificationHub;Microsoft.NotificationHubs/namespaces/notificationHubs
+NSG;Microsoft.Network/networkSecurityGroups
+RedisCache;Microsoft.Cache/Redis
+ServiceBus;Microsoft.ServiceBus/namespaces
+ServiceFabric;Microsoft.ServiceFabric/clusters
+SQLManagedInstance;Microsoft.Sql/managedInstances
+SQLServer;Microsoft.Sql/servers
+Storage;Microsoft.Storage/storageAccounts
+Subscription;
+TrafficManager;Microsoft.Network/trafficmanagerprofiles
+VirtualMachine;Microsoft.Compute/virtualMachines
+VirtualMachineScaleSet;Microsoft.Compute/virtualMachineScaleSets
+VirtualNetwork;Microsoft.Network/virtualNetworks

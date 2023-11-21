@@ -1,0 +1,5 @@
+dbpath: "C:\\Users\\%username%\\Desktop\\azure_repo\\sqlite\\azure_db.db"
+azskymlrepolocation: "C:\\Users\\%username%\\Desktop\\azure_repo\\repo1\\"
+aztsymlrepolocation: "C:\\Users\\%username%\\Desktop\\azure_repo\\repo2\\"
+ymlreposource: "azts"
+notepadpluspluslocation: "C:\\Program Files\\Notepad++\\notepad++.exe"

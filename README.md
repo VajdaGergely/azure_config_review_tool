@@ -7,5 +7,4 @@ This is a Windows GUI tool for administer azure testing with AZSK, AZTS tools an
 * view and edit resource related test cases
 * open image and docx test case evidences
 * edit and save config review status into database
-* save results to db
 * export results to csv file
